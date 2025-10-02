@@ -25,5 +25,5 @@ def bin_tree(height=4, root=3):
     }
 
 custom_tree = bin_tree(height=2, root=5)
-print("\nПользовательское дерево:")
 print(custom_tree)
+
